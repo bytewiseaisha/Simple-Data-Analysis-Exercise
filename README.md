@@ -6,8 +6,8 @@ This is a beginner-friendly data analysis and visualization exercise. It aims to
 - Data visualization using Python libraries
 
 ## Dataset
-This project uses the ipl_2022_dataset
-Source: Kaggle
+- This exercise uses the ipl_2022_dataset
+- Source: Kaggle
 
 ## Tools & Libraries
 - Python
